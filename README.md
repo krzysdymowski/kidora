@@ -1,2 +1,2 @@
 # Kidora
-Operating system based on Windows 7 Pro | 基于 Windows 7 Pro 的操作系统
+Operating system based on Windows | 基于 Windows 的操作系统
