@@ -1,2 +1,1 @@
-test
-Add content to new Pages site
+<h1>Kidora</h1>
