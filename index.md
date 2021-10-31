@@ -6,4 +6,9 @@
 <h3>Wersje BETA/ALFA dostępne wkrótce</h3>
 <h2>Systemy Kidora:</h2>
 <h2>Kidora NEXT:</h2><br>
+<img src="https://raw.githubusercontent.com/krzysdymowski/kidora/main/KidoraNEXTBETA1_1.png" width="400" height="224">
+Kidora NEXT (Wersja niepubliczna)<br>
+<nbsp><br>
+Kidora NEXT to system operacyjny oparty na Windows 7 Pro<br>
+<nbsp><br>
 <a href="https://github.com/krzysdymowski/kidora"><button disabled>Kidora NEXT BETA1 (Wkrótce)</button></a>
