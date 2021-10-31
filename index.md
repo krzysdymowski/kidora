@@ -6,5 +6,5 @@
 <h3>Wersje BETA/ALFA dostępne wkrótce</h3>
 <h1><nbsp><br>
 <h2>Systemy Kidora:</h2>
-<h2>Kidora NEXT:</h2>
+<h2>Kidora NEXT:</h2><br>
 <a href="https://github.com/krzysdymowski/kidora"><button disabled>Kidora NEXT BETA1 (Wkrótce)</button></a>
